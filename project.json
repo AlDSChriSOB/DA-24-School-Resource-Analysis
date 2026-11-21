@@ -1,0 +1,14 @@
+{
+  "id": 24,
+  "title": "School Resource Analysis",
+  "question": "How are expenditure per student and reading scores associated?",
+  "x": "expenditure",
+  "y": "read",
+  "mode": "relation",
+  "caveat": "District-level observational data; income and learner composition may confound results.",
+  "action": "Compare adjusted associations and resource allocation context.",
+  "csv": "https://vincentarelbundock.github.io/Rdatasets/csv/AER/CASchools.csv",
+  "doc": "https://vincentarelbundock.github.io/Rdatasets/doc/AER/CASchools.html",
+  "metric_label": "mean read",
+  "method": "Complete-pair scatter plot of expenditure and read, with Pearson and Spearman correlations. No regression adjustment or causal claim."
+}

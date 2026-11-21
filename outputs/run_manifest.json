@@ -1,0 +1,18 @@
+{
+  "project": "School Resource Analysis",
+  "executed_utc": "2026-11-21T10:14:14.787474+00:00",
+  "source": "https://vincentarelbundock.github.io/Rdatasets/csv/AER/CASchools.csv",
+  "documentation": "https://vincentarelbundock.github.io/Rdatasets/doc/AER/CASchools.html",
+  "sha256": "895568b58b16b78e03b344502b6ff76b27f7d22dcbe3a699e766a54dd151fee8",
+  "raw_rows": 420,
+  "analysis_rows": 420,
+  "excluded_rows": 0,
+  "exact_duplicate_rows": 0,
+  "duplicates_policy": "Retained; duplicate values do not necessarily mean duplicate entities.",
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8",
+  "pearson": 0.21792681805878902,
+  "spearman": 0.13218789822443724
+}

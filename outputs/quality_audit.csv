@@ -1,0 +1,16 @@
+column,dtype,missing,missing_pct,distinct
+rownames,int64,0,0.0,420
+district,int64,0,0.0,420
+school,object,0,0.0,409
+county,object,0,0.0,45
+grades,object,0,0.0,2
+students,int64,0,0.0,391
+teachers,float64,0,0.0,374
+calworks,float64,0,0.0,411
+lunch,float64,0,0.0,407
+computer,int64,0,0.0,270
+expenditure,float64,0,0.0,420
+income,float64,0,0.0,337
+english,float64,0,0.0,372
+read,float64,0,0.0,322
+math,float64,0,0.0,324
